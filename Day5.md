@@ -10,4 +10,4 @@
 React Course by Hitesh Chaudhary
 [link](https://courses.learncodeonline.in/learn/home/Complete-ReactJS-developer-Bootcamp/)
 
-### " Your Story is the one told about you not the one told by you" :fire:
+### " Your Real Story is the one told about you not the one told by you" :fire:
