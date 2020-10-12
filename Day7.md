@@ -1,4 +1,4 @@
-## Day 6
+## Day 7
 
 - Practicing python datastructures and some competitive Questions.
 - Codechef Long Challenge.
